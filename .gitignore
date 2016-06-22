@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+
+#catkin make
+build/
+devel/
